@@ -1,0 +1,23 @@
+li {
+  margin: 5px;
+  padding: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  margin: 5px;
+  padding: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+body {
+	background-image: url("http://www.hutui6.com/data/out/29/68620211-burger-wallpapers.jpeg");
+}
+h1 {
+	text-align: center;
+}
